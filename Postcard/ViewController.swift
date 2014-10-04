@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+//Comment to test GIT
 
     @IBAction func sendMailButtonPressed(sender: UIButton) {
         messageLabel.hidden = false
